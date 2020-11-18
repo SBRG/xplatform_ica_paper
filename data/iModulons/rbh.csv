@@ -1,0 +1,167 @@
+,ds1,ds2,comp1,comp2,type1,desc1,type2,desc2,dist,ds1_code,ds2_code
+144,RNAseq-1,RNAseq-2,0,35,regulatory,zur,regulatory,zur,0.4701506563789175,1,2
+145,RNAseq-1,RNAseq-2,4,37,regulatory,UTP,regulatory,UTP,0.5558202176622982,1,2
+146,RNAseq-1,RNAseq-2,8,31,regulatory,dksA,regulatory,dksA,0.5177173957163239,1,2
+147,RNAseq-1,RNAseq-2,10,34,regulatory,malT,regulatory,malT,0.49827112034370646,1,2
+148,RNAseq-1,RNAseq-2,14,27,regulatory,soxS,regulatory,soxS,0.5066103955556891,1,2
+149,RNAseq-1,RNAseq-2,16,45,regulatory,fur,regulatory,fur,0.4433087045322317,1,2
+150,RNAseq-1,RNAseq-2,17,5,regulatory,argR,regulatory,argR,0.5551075802731305,1,2
+151,RNAseq-1,RNAseq-2,22,7,regulatory,narL,regulatory,narL,0.5440264221361342,1,2
+152,RNAseq-1,RNAseq-2,27,0,regulatory,crp,regulatory,crp,0.6769024892674176,1,2
+153,RNAseq-1,RNAseq-2,33,39,regulatory,gadW,regulatory,gadX,0.3333250480946651,1,2
+154,RNAseq-1,RNAseq-2,37,47,regulatory,arcA,regulatory,arcA,0.5649844112897527,1,2
+155,RNAseq-1,RNAseq-2,41,30,regulatory,rpoH,regulatory,rpoH,0.6292009977232407,1,2
+156,RNAseq-1,RNAseq-2,44,17,regulatory,ntrC,regulatory,ntrC,0.660273296071556,1,2
+157,RNAseq-1,RNAseq-2,46,25,regulatory,cysB,regulatory,cysB,0.24984809455208823,1,2
+158,RNAseq-1,RNAseq-2,63,6,regulatory,cusR,regulatory,cusR,0.4150123141472577,1,2
+159,RNAseq-1,RNAseq-2,64,44,regulatory,rpoS,regulatory,rpoS,0.2882054472286144,1,2
+160,RNAseq-1,RNAseq-2,65,24,regulatory,flhD;flhC,regulatory,flhD;flhC,0.4933347289119834,1,2
+161,RNAseq-1,RNAseq-2,66,18,regulatory,rcsA;rcsB,regulatory,rcsA;rcsB,0.3243649844157158,1,2
+162,RNAseq-1,RNAseq-2,75,4,regulatory,fnr,uncharacterized,,0.5196525375351637,1,2
+163,RNAseq-1,RNAseq-2,77,12,regulatory,trpR,regulatory,tyrR,0.6478949774692684,1,2
+164,RNAseq-1,RNAseq-2,79,8,uncharacterized,,uncharacterized,,0.4038697891595484,1,2
+165,RNAseq-1,RNAseq-2,83,26,regulatory,trpR,regulatory,trpR,0.5348996208096612,1,2
+33,MA-1,RNAseq-1,1,82,regulatory,fnr,regulatory,narL,0.6393013072315756,3,1
+34,MA-1,RNAseq-1,5,64,regulatory,rpoS,regulatory,rpoS,0.38951819691172074,3,1
+35,MA-1,RNAseq-1,6,8,regulatory,dksA,regulatory,dksA,0.5946384808449148,3,1
+36,MA-1,RNAseq-1,12,46,regulatory,cysB,regulatory,cysB,0.40465791541723106,3,1
+37,MA-1,RNAseq-1,15,58,regulatory,glpR,regulatory,glpR,0.33544396319905934,3,1
+38,MA-1,RNAseq-1,16,62,functional,lipopolysaccharide core region biosynthetic process,functional,lipopolysaccharide core region biosynthetic process,0.6288119729616318,3,1
+39,MA-1,RNAseq-1,34,16,regulatory,fur,regulatory,fur,0.4439178812294323,3,1
+40,MA-1,RNAseq-1,38,37,regulatory,bluR,regulatory,arcA,0.655592632602679,3,1
+41,MA-1,RNAseq-1,39,41,regulatory,rpoH,regulatory,rpoH,0.46461418295876655,3,1
+42,MA-1,RNAseq-1,49,65,regulatory,fliA,regulatory,flhD;flhC,0.2624744961379045,3,1
+43,MA-1,RNAseq-1,52,10,regulatory,malT,regulatory,malT,0.3651958289773273,3,1
+44,MA-1,RNAseq-1,58,59,regulatory,purR,regulatory,purR,0.6156529672782373,3,1
+45,MA-1,RNAseq-1,68,33,regulatory,gadW,regulatory,gadW,0.33093194993475583,3,1
+46,MA-1,RNAseq-1,72,22,regulatory,narL,regulatory,narL,0.5118482180190685,3,1
+47,MA-1,RNAseq-1,80,76,regulatory,gatR,regulatory,gatR,0.5397013173615544,3,1
+48,MA-1,RNAseq-1,82,79,uncharacterized,,uncharacterized,,0.6866144830471408,3,1
+49,MA-1,RNAseq-1,89,4,regulatory,UTP,regulatory,UTP,0.5775765587199858,3,1
+50,MA-1,RNAseq-2,1,4,regulatory,fnr,uncharacterized,,0.6523679792728714,3,2
+51,MA-1,RNAseq-2,5,44,regulatory,rpoS,regulatory,rpoS,0.37723726930316437,3,2
+52,MA-1,RNAseq-2,6,31,regulatory,dksA,regulatory,dksA,0.5511376445664561,3,2
+53,MA-1,RNAseq-2,10,21,functional,NADH dehydrogenase complex,functional,NADH dehydrogenase complex,0.6593919541719113,3,2
+54,MA-1,RNAseq-2,12,25,regulatory,cysB,regulatory,cysB,0.34060495693936443,3,2
+55,MA-1,RNAseq-2,34,45,regulatory,fur,regulatory,fur,0.40326256804097027,3,2
+56,MA-1,RNAseq-2,39,30,regulatory,rpoH,regulatory,rpoH,0.5556716053038233,3,2
+57,MA-1,RNAseq-2,49,24,regulatory,fliA,regulatory,flhD;flhC,0.48227547319638464,3,2
+58,MA-1,RNAseq-2,52,34,regulatory,malT,regulatory,malT,0.5077969007648837,3,2
+59,MA-1,RNAseq-2,67,0,regulatory,crp,regulatory,crp,0.581108736593752,3,2
+60,MA-1,RNAseq-2,68,39,regulatory,gadW,regulatory,gadX,0.35624808630577265,3,2
+61,MA-1,RNAseq-2,72,7,regulatory,narL,regulatory,narL,0.5534718011070034,3,2
+62,MA-1,RNAseq-2,82,8,uncharacterized,,uncharacterized,,0.6723125023276776,3,2
+63,MA-1,RNAseq-2,89,37,regulatory,UTP,regulatory,UTP,0.6065605775616812,3,2
+0,MA-1,MA-2,0,7,functional,tricarboxylic acid cycle,regulatory,arcA,0.5806742121273318,3,4
+1,MA-1,MA-2,1,31,regulatory,fnr,regulatory,fnr,0.5757472025240781,3,4
+2,MA-1,MA-2,5,41,regulatory,rpoS,regulatory,rpoS,0.2894494224685773,3,4
+3,MA-1,MA-2,6,20,regulatory,dksA,regulatory,dksA,0.598785449768209,3,4
+4,MA-1,MA-2,10,33,functional,NADH dehydrogenase complex,functional,NADH dehydrogenase complex,0.6976858718278076,3,4
+5,MA-1,MA-2,12,6,regulatory,cysB,regulatory,cysB,0.44394606395463665,3,4
+6,MA-1,MA-2,15,30,regulatory,glpR,regulatory,glpR,0.5702006532055215,3,4
+7,MA-1,MA-2,16,35,functional,lipopolysaccharide core region biosynthetic process,functional,lipopolysaccharide core region biosynthetic process,0.645154866526436,3,4
+8,MA-1,MA-2,18,19,functional,organic phosphonate catabolic process,functional,extracellular polysaccharide biosynthetic process,0.44565749783583175,3,4
+9,MA-1,MA-2,27,25,functional,transcriptional attenuation,functional,transcriptional attenuation,0.5019668841653022,3,4
+10,MA-1,MA-2,34,15,regulatory,fur,regulatory,fur,0.5000778410412505,3,4
+11,MA-1,MA-2,39,46,regulatory,rpoH,regulatory,rpoH,0.5266871375195434,3,4
+12,MA-1,MA-2,49,0,regulatory,fliA,regulatory,fliA,0.24930956647854707,3,4
+13,MA-1,MA-2,52,4,regulatory,malT,regulatory,malT,0.4215950563347072,3,4
+14,MA-1,MA-2,60,42,functional,3-phenylpropionate catabolic process,uncharacterized,,0.4910901283609431,3,4
+15,MA-1,MA-2,62,52,uncharacterized,,uncharacterized,,0.5814682398745555,3,4
+16,MA-1,MA-2,65,1,functional,D-arabinose catabolic process,uncharacterized,,0.6937094702505374,3,4
+17,MA-1,MA-2,68,10,regulatory,gadW,regulatory,gadX,0.3689956653741292,3,4
+18,MA-1,MA-2,71,27,uncharacterized,,uncharacterized,,0.5227173427477151,3,4
+19,MA-1,MA-2,72,2,regulatory,narL,regulatory,narL,0.6573815198681809,3,4
+20,MA-1,MA-2,74,3,uncharacterized,,uncharacterized,,0.5743404954304645,3,4
+21,MA-1,MA-2,89,13,regulatory,UTP,regulatory,UTP,0.5314523987866837,3,4
+22,MA-1,MA-2,92,24,uncharacterized,,uncharacterized,,0.4281065012769053,3,4
+23,MA-1,MA-3,1,12,regulatory,fnr,functional,anaerobic respiration,0.6699232864038576,3,5
+24,MA-1,MA-3,5,11,regulatory,rpoS,regulatory,rpoS,0.41222774412251717,3,5
+25,MA-1,MA-3,12,6,regulatory,cysB,regulatory,cysB,0.6020172607545047,3,5
+26,MA-1,MA-3,15,15,regulatory,glpR,regulatory,glpR,0.5417258915888601,3,5
+27,MA-1,MA-3,34,1,regulatory,fur,regulatory,fur,0.631157716038382,3,5
+28,MA-1,MA-3,49,9,regulatory,fliA,regulatory,fliA,0.2144776934095467,3,5
+29,MA-1,MA-3,67,21,regulatory,crp,regulatory,crp,0.6807337177567817,3,5
+30,MA-1,MA-3,68,27,regulatory,gadW,regulatory,gadW,0.5554209358456983,3,5
+31,MA-1,MA-3,72,30,regulatory,narL,regulatory,narL,0.6985232026944416,3,5
+32,MA-1,MA-3,82,17,uncharacterized,,uncharacterized,,0.6934831405520557,3,5
+76,MA-2,RNAseq-1,0,65,regulatory,fliA,regulatory,flhD;flhC,0.37353645342076414,4,1
+77,MA-2,RNAseq-1,2,22,regulatory,narL,regulatory,narL,0.6602786605326095,4,1
+78,MA-2,RNAseq-1,4,10,regulatory,malT,regulatory,malT,0.4442158107435129,4,1
+79,MA-2,RNAseq-1,6,46,regulatory,cysB,regulatory,cysB,0.3798901578910149,4,1
+80,MA-2,RNAseq-1,7,37,regulatory,arcA,regulatory,arcA,0.40626905906528366,4,1
+81,MA-2,RNAseq-1,10,33,regulatory,gadX,regulatory,gadW,0.31877516336612954,4,1
+82,MA-2,RNAseq-1,12,73,regulatory,metJ,regulatory,metJ,0.5880758635291412,4,1
+83,MA-2,RNAseq-1,13,4,regulatory,UTP,regulatory,UTP,0.43281515278467253,4,1
+84,MA-2,RNAseq-1,15,16,regulatory,fur,regulatory,fur,0.21953999494590393,4,1
+85,MA-2,RNAseq-1,16,74,regulatory,fur,regulatory,fur,0.5118853206848287,4,1
+86,MA-2,RNAseq-1,17,63,regulatory,cusR,regulatory,cusR,0.24457939726739075,4,1
+87,MA-2,RNAseq-1,18,17,regulatory,argR,regulatory,argR,0.43131177625499617,4,1
+88,MA-2,RNAseq-1,20,8,regulatory,dksA,regulatory,dksA,0.6361544878143925,4,1
+89,MA-2,RNAseq-1,22,36,uncharacterized,,genomic,b0759|b3548|b3549|b3550|b3551|b3552|b3553|b3554|b3555|b3556|b4647|b4455|b3557|b3558|b3559|b3560|b4553|b3561|b3562|b3563|b3564|b3565|b3566|b3567|b3568|b3569|b3570|b3571|b3572|b3573|b3574|b3575|b3576|b3577|b3578|b3579|b3580|b3581|b3582|b3583|b4648|b4649|b3584|b3585|b3586|b3587|b3588|b3589|b3590|b3591|b3592|b3593|b3594|b3595|b3596|b4650|b4651|b4615|b4652|b3597|b3598|b3599|b3600|b3601|b4554|b3602|b3603|b3604|b3605|b3606|b3607|b3608|b3609|b3610|b3611|b3612|b3613|b3614|b3615|b3616|b3617|b3618|b3619|b3620|b3621|b3625|b3627|b3628|b3630|b3631|b3632|b3633|b3634|b3635|b3636|b3637|b3638|b3639|b3640|b3641|b3642|b3643|b3644|b3645|b3646|b3647|b3648|b3649|b3650|b3651|b3652|b3653|b3654|b3655|b3656|b3657|b4653|b3659|b3660|b3661|b4555|b3662|b3663|b3664,0.5746200950844622,4,1
+90,MA-2,RNAseq-1,23,1,uncharacterized,,functional,CP4-44 prophage,0.5443777901975797,4,1
+91,MA-2,RNAseq-1,25,80,functional,transcriptional attenuation,functional,transcriptional attenuation,0.6788548303140605,4,1
+92,MA-2,RNAseq-1,28,0,regulatory,zur,regulatory,zur,0.5105936759892089,4,1
+93,MA-2,RNAseq-1,29,57,regulatory,his-tRNA,regulatory,his-tRNA,0.636312474997339,4,1
+94,MA-2,RNAseq-1,30,58,regulatory,glpR,regulatory,glpR,0.5635696307928183,4,1
+95,MA-2,RNAseq-1,31,75,regulatory,fnr,regulatory,fnr,0.5265687105265937,4,1
+96,MA-2,RNAseq-1,33,25,functional,NADH dehydrogenase complex,regulatory,ryhB,0.6205548337875761,4,1
+97,MA-2,RNAseq-1,36,3,uncharacterized,,functional,cellular response to nutrient levels,0.6490660286803773,4,1
+98,MA-2,RNAseq-1,37,55,regulatory,cpxR,regulatory,cpxR,0.6023443129135075,4,1
+99,MA-2,RNAseq-1,41,64,regulatory,rpoS,regulatory,rpoS,0.3287158701594348,4,1
+100,MA-2,RNAseq-1,45,87,regulatory,ile-tRNA,regulatory,leu-tRNA,0.618223183621609,4,1
+101,MA-2,RNAseq-1,46,41,regulatory,rpoH,regulatory,rpoH,0.6285707993242753,4,1
+102,MA-2,RNAseq-1,50,9,regulatory,mqsA,regulatory,mqsA,0.6949980425785898,4,1
+103,MA-2,RNAseq-2,0,24,regulatory,fliA,regulatory,flhD;flhC,0.4999282544445396,4,2
+104,MA-2,RNAseq-2,4,34,regulatory,malT,regulatory,malT,0.518527556992399,4,2
+105,MA-2,RNAseq-2,6,25,regulatory,cysB,regulatory,cysB,0.30260851136897626,4,2
+106,MA-2,RNAseq-2,7,47,regulatory,arcA,regulatory,arcA,0.5845375969673494,4,2
+107,MA-2,RNAseq-2,8,32,uncharacterized,,regulatory,cpxR,0.5481684648236566,4,2
+108,MA-2,RNAseq-2,10,39,regulatory,gadX,regulatory,gadX,0.4058319074361004,4,2
+109,MA-2,RNAseq-2,13,37,regulatory,UTP,regulatory,UTP,0.49560339945678167,4,2
+110,MA-2,RNAseq-2,14,14,regulatory,fhlA,regulatory,fhlA,0.5648758322488177,4,2
+111,MA-2,RNAseq-2,15,45,regulatory,fur,regulatory,fur,0.5165292941159343,4,2
+112,MA-2,RNAseq-2,17,6,regulatory,cusR,regulatory,cusR,0.4770423974922672,4,2
+113,MA-2,RNAseq-2,18,5,regulatory,argR,regulatory,argR,0.595857462290457,4,2
+114,MA-2,RNAseq-2,20,31,regulatory,dksA,regulatory,dksA,0.6186842851575934,4,2
+115,MA-2,RNAseq-2,28,35,regulatory,zur,regulatory,zur,0.6704316579327243,4,2
+116,MA-2,RNAseq-2,31,4,regulatory,fnr,uncharacterized,,0.6120045649885881,4,2
+117,MA-2,RNAseq-2,41,44,regulatory,rpoS,regulatory,rpoS,0.32429457129836403,4,2
+64,MA-2,MA-3,0,9,regulatory,fliA,regulatory,fliA,0.2306767748743377,4,5
+65,MA-2,MA-3,6,6,regulatory,cysB,regulatory,cysB,0.6175581141466138,4,5
+66,MA-2,MA-3,7,10,regulatory,arcA,regulatory,arcA,0.46611505943905485,4,5
+67,MA-2,MA-3,10,27,regulatory,gadX,regulatory,gadW,0.47182782107109855,4,5
+68,MA-2,MA-3,14,19,regulatory,fhlA,regulatory,fhlA,0.5956239693955413,4,5
+69,MA-2,MA-3,15,1,regulatory,fur,regulatory,fur,0.440270068061938,4,5
+70,MA-2,MA-3,28,28,regulatory,zur,regulatory,zur,0.5819461454678827,4,5
+71,MA-2,MA-3,30,15,regulatory,glpR,regulatory,glpR,0.6182351258531934,4,5
+72,MA-2,MA-3,31,30,regulatory,fnr,regulatory,narL,0.4996266471215485,4,5
+73,MA-2,MA-3,41,11,regulatory,rpoS,regulatory,rpoS,0.37582733641717836,4,5
+74,MA-2,MA-3,43,24,uncharacterized,,uncharacterized,,0.6325297896400849,4,5
+75,MA-2,MA-3,51,29,regulatory,ydeO,regulatory,ydeO,0.69347340804823,4,5
+118,MA-3,RNAseq-1,1,16,regulatory,fur,regulatory,fur,0.4255577496130287,5,1
+119,MA-3,RNAseq-1,2,73,regulatory,metJ,regulatory,metJ,0.6779081429343371,5,1
+120,MA-3,RNAseq-1,6,46,regulatory,cysB,regulatory,cysB,0.5651452443301681,5,1
+121,MA-3,RNAseq-1,9,65,regulatory,fliA,regulatory,flhD;flhC,0.31060717622709577,5,1
+122,MA-3,RNAseq-1,10,37,regulatory,arcA,regulatory,arcA,0.5759739131421907,5,1
+123,MA-3,RNAseq-1,11,64,regulatory,rpoS,regulatory,rpoS,0.3732623422650344,5,1
+124,MA-3,RNAseq-1,12,82,functional,anaerobic respiration,regulatory,narL,0.6763596752044578,5,1
+125,MA-3,RNAseq-1,15,58,regulatory,glpR,regulatory,glpR,0.47526859210453754,5,1
+126,MA-3,RNAseq-1,17,79,uncharacterized,,uncharacterized,,0.5651481618404164,5,1
+127,MA-3,RNAseq-1,21,27,regulatory,crp,regulatory,crp,0.5958383445755506,5,1
+128,MA-3,RNAseq-1,23,11,uncharacterized,,regulatory,cra,0.6783230461668877,5,1
+129,MA-3,RNAseq-1,25,24,uncharacterized,,regulatory,lrp,0.6925518946604314,5,1
+130,MA-3,RNAseq-1,27,33,regulatory,gadW,regulatory,gadW,0.5403732690200689,5,1
+131,MA-3,RNAseq-1,28,0,regulatory,zur,regulatory,zur,0.258732146873625,5,1
+132,MA-3,RNAseq-1,30,22,regulatory,narL,regulatory,narL,0.6163539832685141,5,1
+133,MA-3,RNAseq-1,31,59,regulatory,purR,regulatory,purR,0.6053985009655838,5,1
+134,MA-3,RNAseq-2,1,45,regulatory,fur,regulatory,fur,0.6085811656199533,5,2
+135,MA-3,RNAseq-2,6,25,regulatory,cysB,regulatory,cysB,0.5511543002286234,5,2
+136,MA-3,RNAseq-2,9,24,regulatory,fliA,regulatory,flhD;flhC,0.4570408853145823,5,2
+137,MA-3,RNAseq-2,10,47,regulatory,arcA,regulatory,arcA,0.6848387597262091,5,2
+138,MA-3,RNAseq-2,11,44,regulatory,rpoS,regulatory,rpoS,0.34692203275958144,5,2
+139,MA-3,RNAseq-2,17,8,uncharacterized,,uncharacterized,,0.567600800216624,5,2
+140,MA-3,RNAseq-2,19,14,regulatory,fhlA,regulatory,fhlA,0.5882022821940707,5,2
+141,MA-3,RNAseq-2,21,0,regulatory,crp,regulatory,crp,0.5656376566543003,5,2
+142,MA-3,RNAseq-2,27,39,regulatory,gadW,regulatory,gadX,0.6146196806562303,5,2
+143,MA-3,RNAseq-2,28,35,regulatory,zur,regulatory,zur,0.5426177924905838,5,2
